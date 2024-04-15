@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-jha-16&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-jha-16" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam-jha-16" alt="satyam-jha-16" /></a> </p>
-
 - 🔭 I’m currently working on **KlassRoom**
 
 - 🌱 I’m currently learning **Machine Learning and Rust**
